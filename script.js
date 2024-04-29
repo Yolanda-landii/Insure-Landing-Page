@@ -89,5 +89,5 @@ const dynamicTextContent = {
   document.getElementById("footer-press").innerText = dynamicTextContent.footerPress;
   document.getElementById("footer-licenses").innerText = dynamicTextContent.footerLicenses;
   document.getElementById("developer-link").innerText = dynamicTextContent.developerName;
-  document.getElementById("developer-link").href = dynamicTextContent.developerPortfolio;
+  document.getElementById("https://personal-website-sigma-indol.vercel.app/").href = dynamicTextContent.developerPortfolio;
   
